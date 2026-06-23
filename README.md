@@ -2,6 +2,14 @@
 
 Eventora is a full-stack MERN application that allows users to seamlessly browse, register, and pay natively without any third party tools. It features an administrative dashboard for event organizers to create and manage free and paid events. All bookings can be managed manually by an admin to handle payments directly.
 
+---
+
+## Deployment Link
+
+https://event-project-lake.vercel.app/
+
+---
+
 ## Features
 - **User Authentication**: Secure login & registration with JWT and bcrypt.
 - **2FA OTP Verification**: 
